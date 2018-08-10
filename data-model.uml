@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>playground.itc.models</OriginalElement>
+  <nodes>
+    <node x="471.0" y="0.0">playground.itc.models.Shipment</node>
+    <node x="0.0" y="363.0">playground.itc.models.Cluster</node>
+    <node x="354.0" y="595.0">playground.itc.models.Plan</node>
+    <node x="413.0" y="363.0">playground.itc.models.Route</node>
+    <node x="0.0" y="595.0">playground.itc.models.Market</node>
+    <node x="0.0" y="0.0">playground.itc.models.Vehicle</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic Group" zoom="0.43073878627968337" x="309.0" y="738.0" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Fields</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
